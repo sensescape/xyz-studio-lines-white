@@ -1,6 +1,6 @@
-### xyz studio lines dark map
+### xyz studio lines black and white map
 
-View the [xyz studio lines dark map](https://sensescape.github.io/xyz-studio-lines-dark/).
+View the [xyz studio lines black and white map](https://sensescape.github.io/xyz-studio-lines-white/).
 
 [https://explore.xyz.here.com](https://explore.xyz.here.com)
 
